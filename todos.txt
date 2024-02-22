@@ -8,3 +8,4 @@ cook rice
 comer carnita
 exercise
 Clean depa
+Study Python
