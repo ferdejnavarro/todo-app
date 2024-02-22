@@ -1,11 +1,8 @@
-kite
-play
-jog
-mine
+Climb cerrito
 trim
 read book
 cook rice
-comer carnita
-exercise
+comer carnita asadaexercise
 Clean depa
 Study Python
+last todo
